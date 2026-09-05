@@ -12,8 +12,6 @@
 >
 > The long-term vision is simple: trap time in useful fragments, turn those fragments into shared value, and let communities grow around the moments they care about most. Every repository here is a step toward that future—small utilities, fan projects, and workflows that treat clips not as leftovers, but as the core units of a new kind of productivity.
 
----
-
 ### Links
 
 <a href="https://gitlab.com/devianns" target="_blank">
